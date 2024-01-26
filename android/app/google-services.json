@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486777266639",
+    "project_id": "flutterone-80c4c",
+    "storage_bucket": "flutterone-80c4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486777266639:android:462e5863eac91f429b72ba",
+        "android_client_info": {
+          "package_name": "com.example.flutetterone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486777266639-h5n0g8gpsr9mbfm93tsi9hbdfbs7jfn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-BUEZo9MRYHwcbSTFUhizQVfnhP8f4M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486777266639-h5n0g8gpsr9mbfm93tsi9hbdfbs7jfn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
